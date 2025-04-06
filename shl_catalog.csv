@@ -1,0 +1,6 @@
+product_id,product_name,product_url,job_roles,skills_assessed,difficulty,duration,remote_testing,irt_supported,test_type
+1,Leadership Assessment,https://shl.com/leadership-assessment,"Manager,Team Leader","Leadership,Communication,Decision-making",Medium,45,Yes,No,Personality
+2,Cognitive Ability Test,https://shl.com/cognitive-test,"Software Engineer,Analyst","Problem Solving,Logical Reasoning",High,60,Yes,Yes,Cognitive
+3,Emotional Intelligence Test,https://shl.com/emotional-intelligence,"HR,Manager","Empathy,Social Skills",Low,30,Yes,No,Behavioral
+4,Technical Skill Evaluation,https://shl.com/technical-evaluation,"Software Engineer,Developer","Programming,Analytical Thinking",High,75,Yes,Yes,Technical
+5,Sales Aptitude Test,https://shl.com/sales-aptitude,"Sales Executive,Account Manager","Persuasion,Negotiation,Communication",Medium,40,Yes,No,Aptitude
